@@ -1,0 +1,8 @@
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/source/CMakeFiles/Shell.dir
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/source/CMakeFiles/monolithOpt.dir
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/source/CMakeFiles/monolith.dir
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/source/CMakeFiles/monolith-app.dir
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/source/CMakeFiles/edit_cache.dir
+C:/Users/slava/CLionProjects/lab1-osi/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir
